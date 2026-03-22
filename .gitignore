@@ -1,0 +1,11 @@
+.states
+.web
+assets/external/
+*.db
+*.py[cod]
+.venv/
+.env
+__pycache__/
+*.pyc
+vectorstore/index.faiss
+vectorstore/index.pkl
